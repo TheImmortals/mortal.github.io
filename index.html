@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <meta charset="utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<title>Arnab Barua</title>
+<title>Arjun Kumar</title>
 <link rel="shortcut icon" href="https://cdn0.iconfinder.com/data/icons/classic-icons/512/087.png" />
 <link
   rel="stylesheet"
@@ -54,7 +54,7 @@
 <div id="header" class="header">
   
   <b
-    ><h1><font color="#FF3361 ">Arnab Barua's Coding Website.</font></h1></b
+    ><h1><font color="#FF3361 ">Arjun Kumar's Coding Website.</font></h1></b
   >
   <div class="maintabbarbottom"></div>
   <div class="userbar">
@@ -106,7 +106,7 @@
         <em class="group staffgroup">~</em
         ><strong
           ><em
-            ><b><font color="#FF3361 ">Arnab Barua</font></b></em
+            ><b><font color="#FF3361 ">Arjun Kumar</font></b></em
           ></strong
         >
       </button>
